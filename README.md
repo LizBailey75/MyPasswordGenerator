@@ -15,3 +15,5 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
+![image](https://user-images.githubusercontent.com/108904662/192410098-83342e60-9b4e-4ac4-b7e7-4ee0427a7e5a.png)
+
